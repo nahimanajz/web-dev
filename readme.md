@@ -40,3 +40,12 @@ syntax: selector {
     property: valuue;
 }
 ```
+
+## cloning  Guideline
+
+- Open terminal in your vs code
+- git clone REPOSITORY_URL
+- cd project-name
+- code .    // to open vs code instance with in newly cloned repository
+
+Now you can finally see all the files from the cloned repository
