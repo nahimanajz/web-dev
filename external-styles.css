@@ -1,0 +1,8 @@
+body{
+    background-color: orange;
+}
+div {
+    height: 300px;
+    width: 300px;
+    background: white;
+}
