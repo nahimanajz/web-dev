@@ -23,6 +23,7 @@ it is defined inside the opening and closing <head> tag by using <style> tag alo
     <style>
      selector {
     property: value;
+    padding" 23px;
 }
 
     </style>
@@ -49,3 +50,20 @@ syntax: selector {
 - code .    // to open vs code instance with in newly cloned repository
 
 Now you can finally see all the files from the cloned repository
+
+## task 1 inline css
+design the following shapes using inline, internal and external CSS
+
+- steps 1: create a folder called shapes
+- step 2: inside that folder create a file called index.html
+
+step 3: inside `index.html` define a tag called <div> then use style attributes to add all the properties needed to have 3 nested shapes like you see them on shared design.
+
+- step 3: create a file called styles
+
+<div style="border:1px solid red;" > white, space for children boxes
+     <div>Box 1</div> {curved border, white background, put space between border and text }
+     <div>Box 2</div>
+     <div>Box 3</div>
+<div>
+</head>
