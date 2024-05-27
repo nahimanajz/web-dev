@@ -66,3 +66,11 @@ task 4
 
 n.b: I explain in few minutes for anyone who is not getting it.
 others you can start
+
+tasks       
+-----------
+- CSS grid
+- media query
+- animations 
+- git&github
+- 
