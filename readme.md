@@ -102,9 +102,9 @@ tasks
 - git&github
 - 
 
-## git Revision
+## Git Revision
  you can either clone by `git clone github.com/your_name/your_repo.git` or follow guidelines below to associate your git remote repository with your local repository
-## Type these in your computer
+## Step by step adding remote repository to your local respoistory
 
  ``` 
  git init  // initialize local repository/ project
@@ -118,8 +118,19 @@ tasks
  i.e: at this stage your should see remote changes to your local repository
 
 git push origin branch_name
-
- ```
-
- Hello we are need to cause git conflicts 
  
+ ```
+# Task 6
+--------
+Design anything you want but consider these CSS positioning technique
+sticky, fixed, absolute, relative and static
+Remember default CSS positioning on every HTML element is static
+
+hint
+----
+``` 
+selector{
+    position: absolute | relative | sticky | fixed | static
+}
+
+```
