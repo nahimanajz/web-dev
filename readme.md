@@ -101,3 +101,22 @@ tasks
 - animations 
 - git&github
 - 
+
+## git Revision
+ you can either clone by `git clone github.com/your_name/your_repo.git` or follow guidelines below to associate your git remote repository with your local repository
+## Type these in your computer
+
+ ``` 
+ git init  // initialize local repository/ project
+ git add .  // stages files to track
+ git commit -m "Your commit message goes here"
+ git remote add origin your_repository_url  //to associate local with remote repository
+ 
+ git pull origin branch_name //  bringing remote changes to your local repository
+ 
+ git pull origin branch_name --allow-unrelated-histories // incase previous pull didn't work due to th changes which don't know each other
+ i.e: at this stage your should see remote changes to your local repository
+
+git push origin branch_name
+
+ ```
