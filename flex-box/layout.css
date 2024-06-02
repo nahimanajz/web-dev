@@ -1,0 +1,18 @@
+.flex{
+    display: flex;
+    /* justify-content: space-between; */
+    justify-content: space-around;
+     /* justify-content: flex-end; */
+     /* justify-content: flex-end; */
+     /* justify-content: flex-start; */
+     /* justify-content: space-between; */
+ 
+    /* flex-direction: column; */
+}
+
+div {
+  height: 100px;
+  width: 100px;
+  background:orange;
+  
+}

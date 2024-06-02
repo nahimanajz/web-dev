@@ -1,0 +1,15 @@
+.item-1{
+    background-color: plum;
+
+}
+
+#item-2{
+    background-color:orange;
+
+}
+div{
+    background-color:skyblue;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+}
