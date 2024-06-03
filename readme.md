@@ -104,7 +104,7 @@ tasks
 
 ## git Revision
  you can either clone by `git clone github.com/your_name/your_repo.git` or follow guidelines below to associate your git remote repository with your local repository
-## Type these in your computer
+## step by step adding remote repositoru to your local respoistory
 
  ``` 
  git init  // initialize local repository/ project
