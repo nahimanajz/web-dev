@@ -134,3 +134,30 @@ selector{
 }
 
 ```
+
+# Animation
+
+``` 
+animation-name: my-anim
+animation-duration: 2s
+animation-iteration-count: 4
+animation-delay:3s
+animation-timing-function: ease | ease-in | ease-out| ease-in-out
+
+@keyframes my-anim{
+    from{
+        properties
+    },
+    to{
+        properties:
+    }
+}
+```
+
+transform: translate(-50%, -50%)
+transform: scale(2, 0.5)
+transform: scaleX(2, 0.5) scaleY(2)
+
+# Resources
+
+ Css animation from [Scrimba](https://www.youtube.com/watch?v=LCEgHntqBps&ab_channel=Scrimba)
