@@ -102,9 +102,9 @@ tasks
 - git&github
 - 
 
-## git Revision
+## Git Revision
  you can either clone by `git clone github.com/your_name/your_repo.git` or follow guidelines below to associate your git remote repository with your local repository
-## step by step adding remote repositoru to your local respoistory
+## Step by step adding remote repository to your local respoistory
 
  ``` 
  git init  // initialize local repository/ project
