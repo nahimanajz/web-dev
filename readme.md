@@ -1,10 +1,17 @@
+# Descriotion
+ This repository is for web development purposes from absolutely no prior experience about programming 
+ class was held in Nyabiheke camp between April 2024 to June 07, 2024 yet a student can review most of the work done inclass 
+ within this repository various directories
+
+
+# Some techninal explanations 
+
 css: it defined as cascadig style sheet
 we use to change appearance of webpage
 
 ## types of CSS
 
 ---
-
 Inline CSS: it is defined with in the tag with `style` atrribute
 
 ```
@@ -100,7 +107,6 @@ tasks
 - media query
 - animations 
 - git&github
-- 
 
 ## Git Revision
  you can either clone by `git clone github.com/your_name/your_repo.git` or follow guidelines below to associate your git remote repository with your local repository
@@ -160,4 +166,12 @@ transform: scaleX(2, 0.5) scaleY(2)
 
 # Resources
 
- Css animation from [Scrimba](https://www.youtube.com/watch?v=LCEgHntqBps&ab_channel=Scrimba)
+1. Css animation from [Scrimba](https://www.youtube.com/watch?v=LCEgHntqBps&ab_channel=Scrimba)
+2. CSS framework [freecodecamp](https://www.freecodecamp.org/news/learn-tailwind-css/) 
+ click [here for video](https://www.youtube.com/watch?v=ft30zcMlFao&t=3637s&ab_channel=freeCodeCamp.org)
+3. Javascript from 0 to 100 documentation (https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+4. Javascript from 0 to 100 video (https://www.freecodecamp.org/news/full-javascript-course-for-beginners/)
+
+ [more projects](https://github.com/nahimanajz)
+
+# prepared BY Janvier Nahimana
